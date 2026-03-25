@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "STAY OMS",
+  "base_artist": "Kaneee",
+  "createdAt": "2026-03-25T08:33:02.864680Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STAY OMS (feat. JP THE WAVY)",
+      "artist": "Kaneee",
+      "has_synced": false,
+      "path": "select/pl_01_STAY_OMS_(feat._JP_THE_WAVY)_Kaneee.txt"
+    }
+  ]
+}
